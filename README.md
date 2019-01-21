@@ -1,4 +1,6 @@
 # croud
+A Vue JS application to pull and data from a Rest API, Edit it in a form and POST it back.
+Using **VUEX** for state management and **axios** from requests.
 
 ## Project setup
 ```
